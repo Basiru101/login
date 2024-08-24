@@ -32,7 +32,13 @@
 
 
 h1{
-  background-color: aqua;
+  background-color: #3b8eea;
+  color: white;
+  font-size: 3rem;
+  text-align: center;
+  width: 500px;
+  margin: auto;
+  margin-bottom: 30px;
 }
 
 .header{
@@ -61,7 +67,7 @@ input[type="password"]{
   border-bottom: 1px solid #ccc;
 }
 button {
-  background-color: aqua;
+  background-color: #3b8eea;
   width:250px;
   height: 40px;
   border: none;
